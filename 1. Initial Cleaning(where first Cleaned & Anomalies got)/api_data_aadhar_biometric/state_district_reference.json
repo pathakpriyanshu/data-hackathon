@@ -1,0 +1,384 @@
+{
+  "andhra pradesh": {
+    "state_code": "AP",
+    "districts": [
+      "alluri sitharama raju",
+      "anakapalli",
+      "ananthapuramu",
+      "annamayya",
+      "bapatla",
+      "chittoor",
+      "dr. b.r. ambedkar konaseema",
+      "east godavari",
+      "eluru",
+      "guntur",
+      "kakinada",
+      "krishna",
+      "kurnool",
+      "nandyal",
+      "ntr",
+      "palnadu",
+      "parvathipuram manyam",
+      "prakasam",
+      "sri potti sriramulu nellore",
+      "sri sathya sai",
+      "srikakulam",
+      "tirupati",
+      "visakhapatnam",
+      "vizianagaram",
+      "west godavari",
+      "y.s.r. kadapa"
+    ],
+    "district_count": 26
+  },
+
+  "arunachal pradesh": {
+    "state_code": "AR",
+    "districts": [
+      "anjaw","bichom","changlang","dibang valley","east kameng","east siang",
+      "kamle","keyi panyor","kra daadi","kurung kumey","leparada","lohit",
+      "longding","lower dibang valley","lower siang","lower subansiri",
+      "namsai","pakke kessang","papum pare","shi yomi","siang","tawang",
+      "tirap","upper siang","upper subansiri","west kameng","west siang"
+    ],
+    "district_count": 27
+  },
+
+  "assam": {
+    "state_code": "AS",
+    "districts": [
+      "bajali","baksa","barpeta","biswanath","bongaigaon","cachar",
+      "charaideo","chirang","darrang","dhemaji","dhubri","dibrugarh",
+      "dima hasao","goalpara","golaghat","hailakandi","hojai","jorhat",
+      "kamrup","kamrup metro","karbi anglong","kokrajhar","lakhimpur",
+      "majuli","marigaon","nagaon","nalbari","sivasagar","sonitpur",
+      "south salmara mancachar","sribhumi","tamulpur","tinsukia",
+      "udalguri","west karbi anglong"
+    ],
+    "district_count": 35
+  },
+
+  "bihar": {
+    "state_code": "BR",
+    "districts": [
+      "araria","arwal","aurangabad","banka","begusarai","bhagalpur",
+      "bhojpur","buxar","darbhanga","gaya","gopalganj","jamui",
+      "jehanabad","kaimur (bhabua)","katihar","khagaria","kishanganj",
+      "lakhisarai","madhepura","madhubani","munger","muzaffarpur",
+      "nalanda","nawada","pashchim champaran","patna","purbi champaran",
+      "purnia","rohtas","saharsa","samastipur","saran","sheikhpura",
+      "sheohar","sitamarhi","siwan","supaul","vaishali"
+    ],
+    "district_count": 38
+  },
+
+  "chhattisgarh": {
+    "state_code": "CG",
+    "districts": [
+      "balod","balodabazar-bhatapara","balrampur-ramanujganj","bastar",
+      "bemetara","bijapur","bilaspur","dakshin bastar dantewada",
+      "dhamtari","durg","gariyaband","gaurela-pendra-marwahi",
+      "janjgir-champa","jashpur","kabeerdham",
+      "khairagarh-chhuikhadan-gandai","kondagaon","korba","korea",
+      "mahasamund","manendragarh-chirmiri-bharatpur (m c b)",
+      "mohla-manpur-ambagarh chouki","mungeli","narayanpur","raigarh",
+      "raipur","rajnandgaon","sakti","sarangarh-bilaigarh","sukma",
+      "surajpur","surguja","uttar bastar kanker"
+    ],
+    "district_count": 33
+  },
+
+  "delhi": {
+    "state_code": "DL",
+    "districts": [
+      "central","east","new delhi","north","north east","north west",
+      "shahdara","south","south east","south west","west"
+    ],
+    "district_count": 11
+  },
+
+  "goa": {
+    "state_code": "GA",
+    "districts": ["north goa","south goa"],
+    "district_count": 2
+  },
+
+  "gujarat": {
+    "state_code": "GJ",
+    "districts": [
+      "ahmedabad","amreli","anand","arvalli","banas kantha","bharuch",
+      "bhavnagar","botad","chhotaudepur","dahod","dangs",
+      "devbhumi dwarka","gandhinagar","gir somnath","jamnagar",
+      "junagadh","kachchh","kheda","mahesana","mahisagar","morbi",
+      "narmada","navsari","panch mahals","patan","porbandar","rajkot",
+      "sabar kantha","surat","surendranagar","tapi","vadodara",
+      "valsad","vav-tharad"
+    ],
+    "district_count": 34
+  },
+
+  "haryana": {
+    "state_code": "HR",
+    "districts": [
+      "ambala","bhiwani","charkhi dadri","faridabad","fatehabad",
+      "gurugram","hisar","jhajjar","jind","kaithal","karnal",
+      "kurukshetra","mahendragarh","nuh","palwal","panchkula",
+      "panipat","rewari","rohtak","sirsa","sonipat","yamunanagar"
+    ],
+    "district_count": 22
+  },
+
+  "himachal pradesh": {
+    "state_code": "HP",
+    "districts": [
+      "bilaspur","chamba","hamirpur","kangra","kinnaur","kullu",
+      "lahaul and spiti","mandi","shimla","sirmaur","solan","una"
+    ],
+    "district_count": 12
+  },
+
+  "jharkhand": {
+    "state_code": "JH",
+    "districts": [
+      "bokaro","chatra","deoghar","dhanbad","dumka","east singhbhum",
+      "garhwa","giridih","godda","gumla","hazaribagh","jamtara",
+      "khunti","koderma","latehar","lohardaga","pakur","palamu",
+      "ramgarh","ranchi","sahebganj","saraikela kharsawan","simdega",
+      "west singhbhum"
+    ],
+    "district_count": 24
+  },
+
+  "karnataka": {
+    "state_code": "KA",
+    "districts": [
+      "bagalkote","ballari","belagavi","bengaluru rural",
+      "bengaluru south","bengaluru urban","bidar","chamarajanagar",
+      "chikkaballapura","chikkamagaluru","chitradurga",
+      "dakshina kannada","davanagere","dharwad","gadag","hassan",
+      "haveri","kalaburagi","kodagu","kolar","koppal","mandya",
+      "mysuru","raichur","shivamogga","tumakuru","udupi",
+      "uttara kannada","vijayanagara","vijayapura","yadgir"
+    ],
+    "district_count": 31
+  },
+
+  "kerala": {
+    "state_code": "KL",
+    "districts": [
+      "alappuzha","ernakulam","idukki","kannur","kasaragod","kollam",
+      "kottayam","kozhikode","malappuram","palakkad",
+      "pathanamthitta","thiruvananthapuram","thrissur","wayanad"
+    ],
+    "district_count": 14
+  },
+
+  "madhya pradesh": {
+    "state_code": "MP",
+    "districts": [
+      "agar-malwa","alirajpur","anuppur","ashoknagar","balaghat",
+      "barwani","betul","bhind","bhopal","burhanpur","chhatarpur",
+      "chhindwara","damoh","datia","dewas","dhar","dindori","guna",
+      "gwalior","harda","indore","jabalpur","jhabua","katni",
+      "khandwa (east nimar)","khargone (west nimar)","mauganj",
+      "maihar","mandla","mandsaur","morena","narmadapuram",
+      "narsimhapur","neemuch","niwari","pandhurna","panna","raisen",
+      "rajgarh","ratlam","rewa","sagar","satna","sehore","seoni",
+      "shahdol","shajapur","sheopur","shivpuri","sidhi","singrauli",
+      "tikamgarh","ujjain","umaria","vidisha"
+    ],
+    "district_count": 55
+  },
+
+  "maharashtra": {
+    "state_code": "MH",
+    "districts": [
+      "ahilyanagar","akola","amravati","beed","bhandara","buldhana",
+      "chandrapur","chhatrapati sambhajinagar","dharashiv","dhule",
+      "gadchiroli","gondia","hingoli","jalgaon","jalna","kolhapur",
+      "latur","mumbai","mumbai suburban","nagpur","nanded",
+      "nandurbar","nashik","palghar","parbhani","pune","raigad",
+      "ratnagiri","sangli","satara","sindhudurg","solapur","thane",
+      "wardha","washim","yavatmal"
+    ],
+    "district_count": 36
+  },
+
+  "mizoram": {
+    "state_code": "MZ",
+    "districts": [
+      "aizawl","champhai","hnahthial","khawzawl","kolasib",
+      "lawngtlai","lunglei","mamit","saitual","serchhip","siaha"
+    ],
+    "district_count": 11
+  },
+
+  "odisha": {
+    "state_code": "OD",
+    "districts": [
+      "angul","balangir","balasore","bargarh","bhadrak","boudh",
+      "cuttack","deogarh","dhenkanal","gajapati","ganjam",
+      "jagatsinghapur","jajpur","jharsuguda","kalahandi",
+      "kandhamal","kendrapara","keonjhar","khordha","koraput",
+      "malkangiri","mayurbhanj","nabarangpur","nayagarh","nuapada",
+      "puri","rayagada","sambalpur","sonepur","sundargarh"
+    ],
+    "district_count": 30
+  },
+
+  "punjab": {
+    "state_code": "PB",
+    "districts": [
+      "amritsar","barnala","bathinda","faridkot","fatehgarh sahib",
+      "fazilka","ferozepur","gurdaspur","hoshiarpur","jalandhar",
+      "kapurthala","ludhiana","malerkotla","mansa","moga",
+      "pathankot","patiala","rupnagar","s.a.s nagar","sangrur",
+      "shahid bhagat singh nagar","sri muktsar sahib","tarn taran"
+    ],
+    "district_count": 23
+  },
+
+  "rajasthan": {
+    "state_code": "RJ",
+    "districts": [
+      "ajmer","alwar","balotra","banswara","baran","barmer","beawar",
+      "bharatpur","bhilwara","bikaner","bundi","chittorgarh","churu",
+      "dausa","deeg","dholpur","didwana-kuchaman","dungarpur",
+      "ganganagar","hanumangarh","jaipur","jaisalmer","jalore",
+      "jhalawar","jhunjhunu","jodhpur","karauli","khairthal-tijara",
+      "kota","kotputli-behror","nagaur","pali","phalodi",
+      "pratapgarh","rajsamand","salumbar","sawai madhopur","sikar",
+      "sirohi","tonk","udaipur"
+    ],
+    "district_count": 41
+  },
+
+  "tamil nadu": {
+    "state_code": "TN",
+    "districts": [
+      "ariyalur","chengalpattu","chennai","coimbatore","cuddalore",
+      "dharmapuri","dindigul","erode","kallakurichi","kancheepuram",
+      "kanniyakumari","karur","krishnagiri","madurai",
+      "mayiladuthurai","nagapattinam","namakkal","perambalur",
+      "pudukkottai","ramanathapuram","ranipet","salem","sivaganga",
+      "tenkasi","thanjavur","the nilgiris","theni","thiruvallur",
+      "thiruvarur","thoothukkudi","vellore","viluppuram",
+      "virudhunagar","tiruchirappalli","tirunelveli","tirupathur",
+      "tiruppur","tiruvannamalai"
+    ],
+    "district_count": 38
+  },
+
+  "telangana": {
+    "state_code": "TS",
+    "districts": [
+      "adilabad","bhadradri kothagudem","hanumakonda","hyderabad",
+      "jagitial","jangoan","jayashankar bhupalapally",
+      "jogulamba gadwal","kamareddy","karimnagar","khammam",
+      "kumuram bheem asifabad","mahabubabad","mahabubnagar",
+      "mancherial","medak","medchal malkajgiri","mulugu",
+      "nagarkurnool","nalgonda","narayanpet","nirmal","nizamabad",
+      "peddapalli","rajanna sircilla","ranga reddy","sangareddy",
+      "siddipet","suryapet","vikarabad","wanaparthy","warangal",
+      "yadadri bhuvanagiri"
+    ],
+    "district_count": 33
+  },
+
+  "uttar pradesh": {
+    "state_code": "UP",
+    "districts": [
+      "agra","aligarh","ambedkar nagar","amethi","amroha","auraiya",
+      "ayodhya","azamgarh","baghpat","bahraich","ballia","balrampur",
+      "banda","bara banki","bareilly","basti","bhadohi","bijnor",
+      "budaun","bulandshahr","chandauli","chitrakoot","deoria",
+      "etah","etawah","farrukhabad","fatehpur","firozabad",
+      "gautam buddha nagar","ghaziabad","ghazipur","gonda",
+      "gorakhpur","hamirpur","hapur","hardoi","hathras","jalaun",
+      "jaunpur","jhansi","kannauj","kanpur dehat","kanpur nagar",
+      "kasganj","kaushambi","kheri","kushinagar","lalitpur",
+      "lucknow","mahoba","mahrajganj","mainpuri","mathura","mau",
+      "meerut","mirzapur","moradabad","muzaffarnagar","pilibhit",
+      "pratapgarh","prayagraj","rae bareli","rampur","saharanpur",
+      "sambhal","sant kabir nagar","shahjahanpur","shamli",
+      "shrawasti","siddharthnagar","sitapur","sonbhadra",
+      "sultanpur","unnao","varanasi"
+    ],
+    "district_count": 75
+  },
+
+  "uttarakhand": {
+    "state_code": "UK",
+    "districts": [
+      "almora","bageshwar","chamoli","champawat","dehradun",
+      "haridwar","nainital","pauri garhwal","pithoragarh",
+      "rudraprayag","tehri garhwal","udham singh nagar","uttarkashi"
+    ],
+    "district_count": 13
+  },
+
+  "west bengal": {
+    "state_code": "WB",
+    "districts": [
+      "alipurduar","bankura","birbhum","cooch behar",
+      "dakshin dinajpur","darjeeling","hooghly","howrah",
+      "jalpaiguri","jhargram","kalimpong","kolkata","malda",
+      "murshidabad","nadia","north 24 parganas",
+      "paschim bardhaman","paschim medinipur",
+      "purba bardhaman","purba medinipur","purulia",
+      "south 24 parganas","uttar dinajpur"
+    ],
+    "district_count": 23
+  },
+
+  "andaman and nicobar islands": {
+    "state_code": "AN",
+    "districts": [
+      "nicobar","north and middle andaman","south andaman"
+    ],
+    "district_count": 3
+  },
+
+  "chandigarh": {
+    "state_code": "CH",
+    "districts": ["chandigarh"],
+    "district_count": 1
+  },
+
+  "dadra and nagar haveli and daman and diu": {
+    "state_code": "DN",
+    "districts": [
+      "dadra and nagar haveli","daman","diu"
+    ],
+    "district_count": 3
+  },
+
+  "jammu and kashmir": {
+    "state_code": "JK",
+    "districts": [
+      "anantnag","bandipora","baramulla","budgam","doda","ganderbal",
+      "jammu","kathua","kishtwar","kulgam","kupwara","poonch",
+      "pulwama","rajouri","ramban","reasi","samba","shopian",
+      "srinagar","udhampur"
+    ],
+    "district_count": 20
+  },
+
+  "ladakh": {
+    "state_code": "LA",
+    "districts": ["kargil","leh"],
+    "district_count": 2
+  },
+
+  "lakshadweep": {
+    "state_code": "LD",
+    "districts": ["lakshadweep"],
+    "district_count": 1
+  },
+
+  "puducherry": {
+    "state_code": "PY",
+    "districts": ["karaikal","mahe","puducherry","yanam"],
+    "district_count": 4
+  }
+}

@@ -1,0 +1,1051 @@
+,date,state,district,pincode,age_0_5,age_5_17,age_18_greater
+0,31-12-2025,karnataka,bijapur,586113,1,0,0
+1,31-12-2025,karnataka,bijapur,586116,1,1,0
+2,31-12-2025,karnataka,bijapur,586119,3,1,0
+3,31-12-2025,karnataka,bijapur,586122,2,0,0
+4,31-12-2025,karnataka,bijapur,586123,4,2,0
+5,31-12-2025,karnataka,bijapur,586212,1,0,0
+6,31-12-2025,karnataka,bijapur,586213,1,0,0
+7,31-12-2025,karnataka,bijapur,586217,2,0,0
+8,31-12-2025,karnataka,chamrajanagar,571127,1,0,0
+9,31-12-2025,karnataka,chamrajanagar,571439,2,0,0
+10,31-12-2025,karnataka,chamrajanagar,571442,1,0,0
+11,31-12-2025,karnataka,chamrajnagar,571312,1,0,0
+12,31-12-2025,karnataka,chickmagalur,577132,0,1,0
+13,31-12-2025,karnataka,chickmagalur,577144,1,0,0
+14,31-12-2025,karnataka,chickmagalur,577182,1,0,0
+15,31-12-2025,karnataka,chickmagalur,577548,1,1,0
+16,31-12-2025,karnataka,chikkaballapur,562102,3,0,0
+17,31-12-2025,karnataka,chikkaballapur,563128,6,1,0
+18,31-12-2025,karnataka,chikkaballapur,563146,6,1,0
+19,31-12-2025,karnataka,chikmagalur,577101,2,0,0
+20,31-12-2025,karnataka,davangere,577001,6,0,0
+21,31-12-2025,karnataka,davangere,577003,1,0,0
+22,31-12-2025,karnataka,davangere,577213,8,1,0
+23,31-12-2025,karnataka,davangere,577224,0,3,1
+24,31-12-2025,karnataka,davangere,577528,9,4,0
+25,31-12-2025,karnataka,davangere,577553,1,1,0
+26,31-12-2025,karnataka,davangere,583137,1,0,0
+27,31-12-2025,karnataka,gadag *,582101,1,0,0
+28,31-12-2025,karnataka,gulbarga,585104,13,2,0
+29,31-12-2025,karnataka,gulbarga,585228,5,2,0
+30,31-12-2025,karnataka,gulbarga,585313,3,0,0
+31,31-12-2025,karnataka,gulbarga,585318,2,1,0
+32,31-12-2025,karnataka,gulbarga,585320,1,4,0
+33,31-12-2025,karnataka,hasan,573125,1,0,0
+34,31-12-2025,karnataka,hasan,573126,0,2,0
+35,31-12-2025,karnataka,hasan,573135,1,1,0
+36,31-12-2025,karnataka,hasan,573212,1,0,0
+37,31-12-2025,karnataka,mysore,570007,2,0,0
+38,31-12-2025,karnataka,mysore,570010,2,1,0
+39,31-12-2025,karnataka,mysore,571107,0,2,0
+40,31-12-2025,karnataka,mysore,571124,9,1,0
+41,31-12-2025,karnataka,mysore,571617,2,1,0
+42,31-12-2025,karnataka,ramanagar,560060,1,0,0
+43,31-12-2025,karnataka,ramanagar,562109,5,0,0
+44,31-12-2025,karnataka,ramanagar,562119,2,0,0
+45,31-12-2025,karnataka,shimoga,577401,3,0,0
+46,31-12-2025,karnataka,shimoga,577412,1,1,0
+47,31-12-2025,karnataka,shimoga,577428,1,0,0
+48,31-12-2025,karnataka,tumkur,572104,2,0,0
+49,31-12-2025,karnataka,tumkur,572112,1,0,0
+50,31-12-2025,karnataka,tumkur,572117,1,0,0
+51,31-12-2025,karnataka,tumkur,572124,1,1,0
+52,31-12-2025,karnataka,tumkur,572140,0,1,0
+53,31-12-2025,karnataka,tumkur,572221,1,0,0
+54,31-12-2025,karnataka,tumkur,572224,1,0,0
+55,31-12-2025,madhya pradesh,agar malwa,465447,15,7,0
+56,31-12-2025,madhya pradesh,agar malwa,465550,6,8,0
+57,31-12-2025,madhya pradesh,ashok nagar,473885,0,1,0
+58,31-12-2025,madhya pradesh,east nimar,450001,8,2,0
+59,31-12-2025,madhya pradesh,east nimar,450114,4,4,1
+60,31-12-2025,madhya pradesh,east nimar,450116,4,9,0
+61,31-12-2025,madhya pradesh,hoshangabad,461110,1,0,0
+62,31-12-2025,madhya pradesh,hoshangabad,461111,23,3,0
+63,31-12-2025,madhya pradesh,hoshangabad,461115,1,0,0
+64,31-12-2025,madhya pradesh,hoshangabad,461668,2,0,0
+65,31-12-2025,madhya pradesh,hoshangabad,461990,26,7,0
+66,31-12-2025,madhya pradesh,khandwa,450337,2,1,0
+67,31-12-2025,madhya pradesh,khargone,451113,17,10,0
+68,31-12-2025,madhya pradesh,khargone,451220,5,4,0
+69,31-12-2025,madhya pradesh,khargone,451228,14,6,0
+70,31-12-2025,madhya pradesh,khargone,451441,14,20,0
+71,31-12-2025,madhya pradesh,khargone,451660,3,3,0
+72,31-12-2025,madhya pradesh,narsinghpur,487001,23,8,0
+73,31-12-2025,madhya pradesh,narsinghpur,487330,8,2,0
+74,31-12-2025,madhya pradesh,west nimar,451224,2,0,0
+75,31-12-2025,madhya pradesh,west nimar,451228,2,1,0
+76,31-12-2025,maharashtra,ahmadnagar,413201,3,0,0
+77,31-12-2025,maharashtra,ahmadnagar,413703,1,0,0
+78,31-12-2025,maharashtra,ahmadnagar,413704,4,1,0
+79,31-12-2025,maharashtra,ahmadnagar,413709,0,3,0
+80,31-12-2025,maharashtra,ahmadnagar,413737,7,2,0
+81,31-12-2025,maharashtra,ahmadnagar,413739,1,4,0
+82,31-12-2025,maharashtra,ahmadnagar,414001,7,3,0
+83,31-12-2025,maharashtra,ahmadnagar,414113,1,1,0
+84,31-12-2025,maharashtra,ahmadnagar,414402,2,2,0
+85,31-12-2025,maharashtra,ahmadnagar,414606,2,2,0
+86,31-12-2025,maharashtra,ahmadnagar,414607,10,1,0
+87,31-12-2025,maharashtra,ahmadnagar,422620,1,3,0
+88,31-12-2025,maharashtra,ahmadnagar,423109,0,1,0
+89,31-12-2025,maharashtra,ahmadnagar,423602,0,1,0
+90,31-12-2025,maharashtra,ahmed nagar,422604,1,1,0
+91,31-12-2025,maharashtra,aurangabad,423701,5,6,0
+92,31-12-2025,maharashtra,aurangabad,431002,7,4,0
+93,31-12-2025,maharashtra,aurangabad,431003,1,2,0
+94,31-12-2025,maharashtra,aurangabad,431005,3,1,0
+95,31-12-2025,maharashtra,aurangabad,431101,1,1,0
+96,31-12-2025,maharashtra,aurangabad,431105,2,4,0
+97,31-12-2025,maharashtra,aurangabad,431109,2,4,0
+98,31-12-2025,maharashtra,aurangabad,431112,7,5,0
+99,31-12-2025,maharashtra,aurangabad,431115,3,1,0
+100,31-12-2025,maharashtra,aurangabad,431116,5,2,0
+101,31-12-2025,maharashtra,aurangabad,431117,1,1,0
+102,31-12-2025,maharashtra,aurangabad,431133,5,4,0
+103,31-12-2025,maharashtra,bid,413249,0,1,0
+104,31-12-2025,maharashtra,bid,431127,1,0,0
+105,31-12-2025,maharashtra,bid,431515,0,3,0
+106,31-12-2025,maharashtra,buldana,443402,1,0,0
+107,31-12-2025,maharashtra,gondiya,441601,14,2,0
+108,31-12-2025,maharashtra,gondiya,441701,5,0,0
+109,31-12-2025,maharashtra,mumbai city,400004,1,0,0
+110,31-12-2025,maharashtra,mumbai city,400005,1,0,0
+111,31-12-2025,maharashtra,mumbai city,400018,1,0,0
+112,31-12-2025,maharashtra,mumbai city,400022,3,1,1
+113,31-12-2025,maharashtra,mumbai city,400037,4,1,0
+114,31-12-2025,maharashtra,mumbai( sub urban ),400043,0,1,0
+115,31-12-2025,maharashtra,mumbai( sub urban ),400082,1,0,0
+116,31-12-2025,maharashtra,osmanabad,413501,10,5,0
+117,31-12-2025,maharashtra,osmanabad,413528,4,0,0
+118,31-12-2025,maharashtra,osmanabad,413605,4,0,0
+119,31-12-2025,maharashtra,osmanabad,413623,5,0,0
+120,31-12-2025,maharashtra,osmanabad,413624,0,1,0
+121,31-12-2025,maharashtra,raigarh,402105,1,0,0
+122,31-12-2025,maharashtra,raigarh,402108,1,0,0
+123,31-12-2025,maharashtra,raigarh,402202,0,1,0
+124,31-12-2025,maharashtra,raigarh,402302,0,3,0
+125,31-12-2025,maharashtra,raigarh,402309,2,0,0
+126,31-12-2025,maharashtra,raigarh,410218,1,1,0
+127,31-12-2025,manipur,chandel,795102,0,3,0
+128,31-12-2025,manipur,chandel,795131,2,16,0
+129,31-12-2025,manipur,churachandpur,795139,2,3,0
+130,31-12-2025,manipur,imphal east,795005,2,5,0
+131,31-12-2025,manipur,imphal east,795008,2,4,0
+132,31-12-2025,manipur,imphal west,795113,0,3,0
+133,31-12-2025,manipur,senapati,795007,0,1,0
+134,31-12-2025,manipur,senapati,795015,1,3,0
+135,31-12-2025,manipur,thoubal,795101,0,3,0
+136,31-12-2025,manipur,thoubal,795103,1,6,0
+137,31-12-2025,manipur,thoubal,795130,1,0,0
+138,31-12-2025,manipur,ukhrul,795145,0,2,0
+139,31-12-2025,meghalaya,east garo hills,794110,0,1,0
+140,31-12-2025,meghalaya,east garo hills,794111,0,5,1
+141,31-12-2025,meghalaya,east jaintia hills,793200,0,3,0
+142,31-12-2025,meghalaya,east khasi hills,793001,0,4,0
+143,31-12-2025,meghalaya,east khasi hills,793010,0,1,2
+144,31-12-2025,meghalaya,east khasi hills,793016,1,0,0
+145,31-12-2025,meghalaya,east khasi hills,793106,0,1,0
+146,31-12-2025,meghalaya,east khasi hills,793113,0,2,0
+147,31-12-2025,meghalaya,north garo hills,794112,0,7,0
+148,31-12-2025,meghalaya,ri bhoi,793101,0,1,2
+149,31-12-2025,meghalaya,south west garo hills,794115,0,1,0
+150,31-12-2025,meghalaya,west jaintia hills,793150,0,30,1
+151,31-12-2025,mizoram,mammit,796441,2,0,0
+152,31-12-2025,mizoram,saiha,796901,0,1,0
+153,31-12-2025,nagaland,dimapur,797113,0,1,0
+154,31-12-2025,nagaland,kohima,797001,0,3,0
+155,31-12-2025,nagaland,mokokchung,798601,0,4,0
+156,31-12-2025,nagaland,mon,798602,0,2,0
+157,31-12-2025,nagaland,mon,798621,0,5,1
+158,31-12-2025,nagaland,tuensang,798601,0,1,0
+159,31-12-2025,nagaland,tuensang,798626,0,2,0
+160,31-12-2025,odisha,baleshwar,756024,1,4,0
+161,31-12-2025,odisha,baleshwar,756060,0,1,0
+162,31-12-2025,odisha,baleswar,756023,0,1,0
+163,31-12-2025,odisha,baleswar,756027,3,0,0
+164,31-12-2025,odisha,baleswar,756033,2,0,0
+165,31-12-2025,odisha,baleswar,756041,2,1,0
+166,31-12-2025,odisha,baleswar,756044,1,1,0
+167,31-12-2025,odisha,baleswar,756045,5,2,0
+168,31-12-2025,odisha,baleswar,756046,1,0,0
+169,31-12-2025,odisha,baleswar,756058,3,1,0
+170,31-12-2025,odisha,jagatsinghpur,754113,1,0,0
+171,31-12-2025,odisha,jagatsinghpur,754138,1,0,0
+172,31-12-2025,odisha,jajapur,754214,1,1,0
+173,31-12-2025,odisha,jajapur,755001,0,1,0
+174,31-12-2025,odisha,jajapur,755008,1,0,0
+175,31-12-2025,odisha,jajapur,755009,2,1,0
+176,31-12-2025,odisha,jajapur,755017,1,1,0
+177,31-12-2025,odisha,jajapur,755022,0,1,0
+178,31-12-2025,odisha,kendujhar,758002,0,1,0
+179,31-12-2025,odisha,kendujhar,758013,4,0,0
+180,31-12-2025,odisha,kendujhar,758014,7,2,0
+181,31-12-2025,odisha,kendujhar,758018,1,4,0
+182,31-12-2025,odisha,kendujhar,758023,1,3,0
+183,31-12-2025,odisha,kendujhar,758037,2,0,0
+184,31-12-2025,odisha,kendujhar,758038,0,3,0
+185,31-12-2025,odisha,kendujhar,758047,3,1,0
+186,31-12-2025,odisha,kendujhar,758076,3,3,0
+187,31-12-2025,odisha,kendujhar,758079,1,3,0
+188,31-12-2025,odisha,kendujhar,758081,2,0,0
+189,31-12-2025,odisha,khorda,751001,0,1,0
+190,31-12-2025,odisha,khorda,751018,0,2,0
+191,31-12-2025,odisha,khorda,751029,0,1,0
+192,31-12-2025,odisha,khorda,751030,1,1,0
+193,31-12-2025,odisha,khorda,751031,1,0,1
+194,31-12-2025,odisha,khorda,752031,1,1,0
+195,31-12-2025,odisha,khorda,752050,2,0,0
+196,31-12-2025,odisha,khorda,752056,3,1,0
+197,31-12-2025,odisha,nabarangapur,764059,0,1,0
+198,31-12-2025,odisha,nabarangapur,764071,4,3,0
+199,31-12-2025,odisha,sonapur,767016,3,1,0
+200,31-12-2025,odisha,sonapur,767017,1,0,0
+201,31-12-2025,odisha,sonapur,767062,1,1,0
+202,31-12-2025,odisha,sundergarh,769005,1,0,0
+203,31-12-2025,odisha,sundergarh,769006,0,1,0
+204,31-12-2025,odisha,sundergarh,769013,1,0,0
+205,31-12-2025,odisha,sundergarh,769016,0,3,0
+206,31-12-2025,odisha,sundergarh,769043,0,0,1
+207,31-12-2025,odisha,sundergarh,770015,1,0,0
+208,31-12-2025,odisha,sundergarh,770017,3,0,0
+209,31-12-2025,odisha,sundergarh,770020,2,1,0
+210,31-12-2025,odisha,sundergarh,770044,0,2,0
+211,31-12-2025,odisha,anugul,759107,0,1,0
+212,31-12-2025,odisha,baleshwar,756029,1,0,0
+213,31-12-2025,odisha,baleshwar,756045,1,0,0
+214,31-12-2025,odisha,kendujhar,758035,0,1,0
+215,31-12-2025,punjab,sas nagar (mohali),140103,1,0,0
+216,31-12-2025,punjab,sas nagar (mohali),147506,0,3,0
+217,31-12-2025,punjab,shaheed bhagat singh nagar,144514,0,1,0
+218,31-12-2025,rajasthan,chittaurgarh,312001,2,0,0
+219,31-12-2025,rajasthan,chittaurgarh,323305,1,0,0
+220,31-12-2025,rajasthan,jalor,307029,7,8,0
+221,31-12-2025,rajasthan,jalor,343027,4,18,0
+222,31-12-2025,rajasthan,jalor,343028,2,3,0
+223,31-12-2025,rajasthan,jalor,343039,4,3,0
+224,31-12-2025,rajasthan,jhunjhunun,331027,1,2,0
+225,31-12-2025,rajasthan,jhunjhunun,333011,2,1,0
+226,31-12-2025,rajasthan,jhunjhunun,333012,2,2,0
+227,31-12-2025,rajasthan,jhunjhunun,333021,4,2,0
+228,31-12-2025,rajasthan,jhunjhunun,333025,1,0,0
+229,31-12-2025,rajasthan,jhunjhunun,333027,0,2,0
+230,31-12-2025,rajasthan,jhunjhunun,333036,2,2,0
+231,31-12-2025,rajasthan,jhunjhunun,333042,9,2,1
+232,31-12-2025,rajasthan,jhunjhunun,333303,3,1,0
+233,31-12-2025,rajasthan,jhunjhunun,333305,3,2,0
+234,31-12-2025,rajasthan,jhunjhunun,333307,3,3,0
+235,31-12-2025,rajasthan,jhunjhunun,333516,4,4,0
+236,31-12-2025,rajasthan,jhunjhunun,333701,0,2,0
+237,31-12-2025,sikkim,east sikkim,737106,0,0,1
+238,31-12-2025,sikkim,west sikkim,737113,1,0,0
+239,31-12-2025,tamil nadu,kanyakumari,629002,1,0,0
+240,31-12-2025,tamil nadu,kanyakumari,629152,1,0,0
+241,31-12-2025,tamil nadu,kanyakumari,629153,1,0,0
+242,31-12-2025,tamil nadu,kanyakumari,629157,2,0,0
+243,31-12-2025,tamil nadu,kanyakumari,629161,2,0,0
+244,31-12-2025,tamil nadu,kanyakumari,629177,5,0,0
+245,31-12-2025,tamil nadu,kanyakumari,629180,1,0,0
+246,31-12-2025,tamil nadu,kanyakumari,629301,0,1,0
+247,31-12-2025,tamil nadu,kanyakumari,629810,1,0,0
+248,31-12-2025,tamil nadu,kanyakumari,629852,1,0,0
+249,31-12-2025,tamil nadu,tirupattur,635602,2,2,0
+250,31-12-2025,tamil nadu,tirupattur,635802,1,0,0
+251,31-12-2025,tamil nadu,tirupattur,635804,1,0,0
+252,31-12-2025,tamil nadu,tirupattur,635807,1,0,0
+253,31-12-2025,tamil nadu,tirupattur,635811,0,2,0
+254,31-12-2025,tamil nadu,tiruvallur,600049,2,0,0
+255,31-12-2025,tamil nadu,tiruvallur,600068,4,2,0
+256,31-12-2025,tamil nadu,tiruvallur,600071,1,3,0
+257,31-12-2025,tamil nadu,tiruvallur,600072,6,2,0
+258,31-12-2025,tamil nadu,tiruvallur,600120,2,1,0
+259,31-12-2025,tamil nadu,tiruvallur,601205,3,0,0
+260,31-12-2025,tamil nadu,tiruvallur,602001,1,2,2
+261,31-12-2025,tamil nadu,tiruvallur,602021,1,1,0
+262,31-12-2025,tamil nadu,tiruvallur,602108,1,0,0
+263,31-12-2025,tamil nadu,tiruvallur,631212,3,0,0
+264,31-12-2025,tamil nadu,villupuram,604201,3,0,0
+265,31-12-2025,tamil nadu,villupuram,604202,2,2,0
+266,31-12-2025,tamil nadu,villupuram,604208,1,1,0
+267,31-12-2025,tamil nadu,villupuram,604210,1,0,0
+268,31-12-2025,tamil nadu,villupuram,605103,2,0,0
+269,31-12-2025,tamil nadu,villupuram,605108,1,0,0
+270,31-12-2025,tamil nadu,villupuram,605201,0,3,0
+271,31-12-2025,tamil nadu,villupuram,605301,3,0,0
+272,31-12-2025,tamil nadu,villupuram,605501,1,0,0
+273,31-12-2025,tamil nadu,villupuram,605651,0,1,0
+274,31-12-2025,tamil nadu,villupuram,605751,2,0,0
+275,31-12-2025,tamil nadu,villupuram,607201,2,0,0
+276,31-12-2025,telangana,jayashankar bhupalpally,506356,2,1,0
+277,31-12-2025,telangana,k.v. rangareddy,500005,13,5,0
+278,31-12-2025,telangana,k.v. rangareddy,500014,0,2,0
+279,31-12-2025,telangana,k.v. rangareddy,500039,1,4,0
+280,31-12-2025,telangana,k.v. rangareddy,500075,3,2,1
+281,31-12-2025,telangana,k.v. rangareddy,500076,3,0,0
+282,31-12-2025,telangana,k.v. rangareddy,500077,3,1,0
+283,31-12-2025,telangana,k.v. rangareddy,500083,1,0,0
+284,31-12-2025,telangana,k.v. rangareddy,500084,11,3,1
+285,31-12-2025,telangana,k.v. rangareddy,500089,11,5,0
+286,31-12-2025,telangana,k.v. rangareddy,500098,1,2,0
+287,31-12-2025,telangana,k.v. rangareddy,501106,0,2,0
+288,31-12-2025,telangana,k.v. rangareddy,501111,1,0,0
+289,31-12-2025,telangana,k.v. rangareddy,501218,11,3,0
+290,31-12-2025,telangana,k.v. rangareddy,501401,3,1,0
+291,31-12-2025,telangana,k.v. rangareddy,501503,4,1,0
+292,31-12-2025,telangana,k.v. rangareddy,501506,3,1,0
+293,31-12-2025,telangana,k.v. rangareddy,501510,7,2,0
+294,31-12-2025,telangana,k.v. rangareddy,509321,4,4,0
+295,31-12-2025,telangana,k.v. rangareddy,509335,1,1,0
+296,31-12-2025,telangana,komaram bheem,504296,6,1,0
+297,31-12-2025,telangana,medchal-malkajgiri,500043,1,1,0
+298,31-12-2025,telangana,medchal-malkajgiri,500056,3,1,0
+299,31-12-2025,telangana,medchal-malkajgiri,500068,1,1,0
+300,31-12-2025,telangana,medchal-malkajgiri,501301,1,3,0
+301,31-12-2025,telangana,warangal rural,506314,1,1,0
+302,31-12-2025,telangana,warangal urban,506001,1,0,0
+303,31-12-2025,telangana,yadadri.,508111,3,0,0
+304,31-12-2025,telangana,yadadri.,508277,2,1,0
+305,31-12-2025,telangana,yadadri.,508284,1,0,0
+306,31-12-2025,tripura,dhalai,799286,2,2,0
+307,31-12-2025,tripura,gomati,799104,1,1,0
+308,31-12-2025,tripura,gomati,799114,4,4,0
+309,31-12-2025,tripura,khowai,799203,0,1,0
+310,31-12-2025,tripura,khowai,799205,0,4,0
+311,31-12-2025,tripura,north tripura,799260,0,3,0
+312,31-12-2025,tripura,south tripura,799156,0,1,0
+313,31-12-2025,tripura,unakoti,799264,0,7,0
+314,31-12-2025,tripura,unakoti,799279,1,1,0
+315,31-12-2025,tripura,unakoti,799280,2,0,1
+316,31-12-2025,tripura,unakoti,799281,1,0,0
+317,31-12-2025,tripura,unakoti,799290,1,2,0
+318,31-12-2025,tripura,west tripura,799003,1,1,0
+319,31-12-2025,tripura,west tripura,799004,0,4,0
+320,31-12-2025,tripura,west tripura,799008,0,2,0
+321,31-12-2025,tripura,west tripura,799115,1,1,0
+322,31-12-2025,tripura,west tripura,799201,1,3,0
+323,31-12-2025,tripura,west tripura,799205,0,2,0
+324,31-12-2025,tripura,west tripura,799210,0,2,0
+325,31-12-2025,tripura,west tripura,799212,0,1,0
+326,31-12-2025,uttar pradesh,allahabad,211013,3,6,0
+327,31-12-2025,uttar pradesh,allahabad,212107,8,7,0
+328,31-12-2025,uttar pradesh,allahabad,212108,5,5,0
+329,31-12-2025,uttar pradesh,allahabad,212303,15,7,0
+330,31-12-2025,uttar pradesh,allahabad,228411,3,1,0
+331,31-12-2025,uttar pradesh,barabanki,225414,1,0,0
+332,31-12-2025,uttar pradesh,faizabad,224195,0,5,0
+333,31-12-2025,uttar pradesh,faizabad,224203,2,2,0
+334,31-12-2025,uttar pradesh,faizabad,224229,1,6,0
+335,31-12-2025,uttar pradesh,faizabad,225402,11,5,1
+336,31-12-2025,uttar pradesh,faizabad,225406,0,5,0
+337,31-12-2025,uttar pradesh,jyotiba phule nagar,244102,0,1,0
+338,31-12-2025,uttar pradesh,maharajganj,273163,5,28,1
+339,31-12-2025,uttar pradesh,sant ravidas nagar,221303,8,14,0
+340,31-12-2025,uttar pradesh,sant ravidas nagar,221308,2,5,0
+341,31-12-2025,uttar pradesh,sant ravidas nagar,221309,2,5,0
+342,31-12-2025,uttar pradesh,sant ravidas nagar,221404,6,16,0
+343,31-12-2025,west bengal,barddhaman,712410,1,2,0
+344,31-12-2025,west bengal,barddhaman,713124,0,3,0
+345,31-12-2025,west bengal,barddhaman,713130,0,2,0
+346,31-12-2025,west bengal,barddhaman,713146,5,6,0
+347,31-12-2025,west bengal,barddhaman,713152,3,1,0
+348,31-12-2025,west bengal,barddhaman,713203,0,1,0
+349,31-12-2025,west bengal,barddhaman,713215,1,0,0
+350,31-12-2025,west bengal,barddhaman,713301,1,1,0
+351,31-12-2025,west bengal,barddhaman,713325,2,1,0
+352,31-12-2025,west bengal,barddhaman,713336,0,2,0
+353,31-12-2025,west bengal,barddhaman,713338,0,1,0
+354,31-12-2025,west bengal,barddhaman,713340,0,2,0
+355,31-12-2025,west bengal,barddhaman,713360,1,0,0
+356,31-12-2025,west bengal,barddhaman,713384,1,0,0
+357,31-12-2025,west bengal,barddhaman,713404,1,1,0
+358,31-12-2025,west bengal,barddhaman,713407,1,2,0
+359,31-12-2025,west bengal,barddhaman,713422,3,3,0
+360,31-12-2025,west bengal,barddhaman,713426,2,0,0
+361,31-12-2025,west bengal,barddhaman,713502,2,2,0
+362,31-12-2025,west bengal,barddhaman,713512,3,4,0
+363,31-12-2025,west bengal,barddhaman,713513,7,6,0
+364,31-12-2025,west bengal,bardhaman,713124,1,0,0
+365,31-12-2025,west bengal,bardhaman,713146,2,2,0
+366,31-12-2025,west bengal,bardhaman,713154,1,0,0
+367,31-12-2025,west bengal,bardhaman,713362,0,1,0
+368,31-12-2025,west bengal,bardhaman,713363,0,1,0
+369,31-12-2025,west bengal,bardhaman,713384,0,0,1
+370,31-12-2025,west bengal,bardhaman,713409,0,2,0
+371,31-12-2025,west bengal,bardhaman,713430,1,0,0
+372,31-12-2025,west bengal,bardhaman,713515,1,1,0
+373,31-12-2025,west bengal,darjiling,734434,0,4,0
+374,31-12-2025,west bengal,east midnapore,721131,1,0,0
+375,31-12-2025,west bengal,east midnapore,721423,0,1,0
+376,31-12-2025,west bengal,east midnapore,721427,1,0,0
+377,31-12-2025,west bengal,east midnapore,721439,1,0,0
+378,31-12-2025,west bengal,east midnapore,721443,0,1,0
+379,31-12-2025,west bengal,east midnapore,721444,1,0,0
+380,31-12-2025,west bengal,east midnapore,721448,0,1,0
+381,31-12-2025,west bengal,east midnapore,721631,1,0,0
+382,31-12-2025,west bengal,east midnapore,721646,0,1,0
+383,31-12-2025,west bengal,haora,711106,0,1,0
+384,31-12-2025,west bengal,haora,711226,1,0,0
+385,31-12-2025,west bengal,haora,711403,0,1,0
+386,31-12-2025,west bengal,haora,711412,0,2,0
+387,31-12-2025,west bengal,hugli,712103,0,1,0
+388,31-12-2025,west bengal,hugli,712416,1,0,0
+389,31-12-2025,west bengal,hugli,712502,1,0,0
+390,31-12-2025,west bengal,koch bihar,735236,0,1,0
+391,31-12-2025,west bengal,koch bihar,735304,0,1,0
+392,31-12-2025,west bengal,koch bihar,736121,0,1,0
+393,31-12-2025,west bengal,koch bihar,736134,2,1,0
+394,31-12-2025,west bengal,koch bihar,736145,1,1,0
+395,31-12-2025,west bengal,koch bihar,736169,1,0,0
+396,31-12-2025,west bengal,maldah,732123,1,1,0
+397,31-12-2025,west bengal,maldah,732139,2,7,0
+398,31-12-2025,west bengal,maldah,732141,1,0,0
+399,31-12-2025,west bengal,maldah,732142,0,3,0
+400,31-12-2025,west bengal,maldah,732204,1,0,0
+401,31-12-2025,west bengal,maldah,732207,5,1,0
+402,31-12-2025,west bengal,maldah,732216,0,1,0
+403,31-12-2025,west bengal,north dinajpur,733134,1,0,0
+404,31-12-2025,west bengal,north dinajpur,733207,0,1,0
+405,31-12-2025,west bengal,north twenty four parganas,700119,1,0,0
+406,31-12-2025,west bengal,north twenty four parganas,700135,0,2,0
+407,31-12-2025,west bengal,north twenty four parganas,743425,3,1,0
+408,31-12-2025,west bengal,puruliya,723101,9,19,0
+409,31-12-2025,west bengal,puruliya,723103,4,2,1
+410,31-12-2025,west bengal,puruliya,723121,6,27,0
+411,31-12-2025,west bengal,puruliya,723126,5,14,0
+412,31-12-2025,west bengal,puruliya,723128,2,6,0
+413,31-12-2025,west bengal,puruliya,723132,1,7,0
+414,31-12-2025,west bengal,puruliya,723133,2,14,0
+415,31-12-2025,west bengal,puruliya,723149,2,6,0
+416,31-12-2025,west bengal,puruliya,723153,3,5,0
+417,31-12-2025,west bengal,puruliya,723154,5,2,0
+418,31-12-2025,west bengal,puruliya,723155,4,16,0
+419,31-12-2025,west bengal,puruliya,723212,4,0,0
+420,31-12-2025,west bengal,puruliya,723216,1,0,0
+421,31-12-2025,west bengal,south dinajpur,733142,1,0,0
+422,31-12-2025,west bengal,south twenty four parganas,743318,1,2,0
+423,31-12-2025,west bengal,south twenty four parganas,743332,1,2,0
+424,31-12-2025,west bengal,west midnapore,721304,1,0,0
+425,31-12-2025,andhra pradesh,adilabad,504209,0,1,0
+426,31-12-2025,andhra pradesh,adilabad,504292,2,0,0
+427,31-12-2025,andhra pradesh,adilabad,504293,0,1,0
+428,31-12-2025,andhra pradesh,adilabad,504296,2,0,0
+429,31-12-2025,andhra pradesh,adilabad,504306,1,0,0
+430,31-12-2025,andhra pradesh,anantapur,515110,1,0,0
+431,31-12-2025,andhra pradesh,anantapur,515212,1,0,0
+432,31-12-2025,andhra pradesh,anantapur,515311,0,1,0
+433,31-12-2025,andhra pradesh,anantapur,515341,2,0,0
+434,31-12-2025,andhra pradesh,anantapur,515411,2,0,0
+435,31-12-2025,andhra pradesh,anantapur,515571,1,1,0
+436,31-12-2025,andhra pradesh,anantapur,515661,1,0,0
+437,31-12-2025,andhra pradesh,anantapur,515672,1,1,0
+438,31-12-2025,andhra pradesh,anantapur,515761,2,1,0
+439,31-12-2025,andhra pradesh,anantapur,515765,1,1,0
+440,31-12-2025,andhra pradesh,anantapur,515801,3,2,0
+441,31-12-2025,andhra pradesh,ananthapur,515110,1,0,0
+442,31-12-2025,andhra pradesh,ananthapur,515672,1,0,0
+443,31-12-2025,andhra pradesh,ananthapur,515701,1,0,0
+444,31-12-2025,andhra pradesh,ananthapur,515741,0,2,0
+445,31-12-2025,andhra pradesh,cuddapah,516105,3,1,0
+446,31-12-2025,andhra pradesh,cuddapah,516107,5,0,0
+447,31-12-2025,andhra pradesh,cuddapah,516175,4,0,0
+448,31-12-2025,andhra pradesh,cuddapah,516217,1,1,0
+449,31-12-2025,andhra pradesh,cuddapah,516257,2,0,0
+450,31-12-2025,andhra pradesh,cuddapah,516268,3,0,0
+451,31-12-2025,andhra pradesh,cuddapah,516362,0,1,0
+452,31-12-2025,andhra pradesh,dr. b. r. ambedkar konaseema,533238,1,0,0
+453,31-12-2025,andhra pradesh,dr. b. r. ambedkar konaseema,533261,2,0,0
+454,31-12-2025,andhra pradesh,dr. b. r. ambedkar konaseema,533305,1,0,0
+455,31-12-2025,andhra pradesh,hyderabad,500006,4,1,0
+456,31-12-2025,andhra pradesh,hyderabad,500010,1,1,0
+457,31-12-2025,andhra pradesh,hyderabad,500016,0,1,0
+458,31-12-2025,andhra pradesh,hyderabad,500028,3,0,0
+459,31-12-2025,andhra pradesh,hyderabad,500034,1,1,0
+460,31-12-2025,andhra pradesh,hyderabad,500045,2,1,0
+461,31-12-2025,andhra pradesh,hyderabad,500050,0,2,0
+462,31-12-2025,andhra pradesh,karimnagar,505325,0,1,0
+463,31-12-2025,andhra pradesh,karimnagar,505445,1,0,0
+464,31-12-2025,andhra pradesh,karimnagar,505451,0,1,0
+465,31-12-2025,andhra pradesh,karimnagar,505481,1,1,0
+466,31-12-2025,andhra pradesh,khammam,507111,1,0,0
+467,31-12-2025,andhra pradesh,khammam,507209,3,0,0
+468,31-12-2025,andhra pradesh,khammam,507303,1,0,0
+469,31-12-2025,andhra pradesh,mahabub nagar,509340,0,1,0
+470,31-12-2025,andhra pradesh,mahbubnagar,509202,0,1,0
+471,31-12-2025,andhra pradesh,mahbubnagar,509407,0,1,0
+472,31-12-2025,andhra pradesh,medak,502291,4,0,0
+473,31-12-2025,andhra pradesh,medak,502335,1,0,0
+474,31-12-2025,andhra pradesh,n. t. r,521226,0,1,0
+475,31-12-2025,andhra pradesh,n. t. r,521229,1,0,0
+476,31-12-2025,andhra pradesh,nalgonda,508252,2,0,0
+477,31-12-2025,andhra pradesh,nalgonda,508254,1,0,0
+478,31-12-2025,andhra pradesh,nalgonda,508255,1,0,0
+479,31-12-2025,andhra pradesh,nalgonda,508257,1,0,0
+480,31-12-2025,andhra pradesh,nellore,524121,3,0,0
+481,31-12-2025,andhra pradesh,nellore,524218,1,0,0
+482,31-12-2025,andhra pradesh,nellore,524228,3,0,0
+483,31-12-2025,andhra pradesh,nellore,524310,1,0,0
+484,31-12-2025,andhra pradesh,nellore,524313,0,1,0
+485,31-12-2025,andhra pradesh,nellore,524315,2,0,0
+486,31-12-2025,andhra pradesh,nizamabad,503001,1,0,0
+487,31-12-2025,andhra pradesh,rangareddi,500052,6,1,0
+488,31-12-2025,andhra pradesh,rangareddi,500079,1,0,0
+489,31-12-2025,andhra pradesh,rangareddi,500089,0,1,0
+490,31-12-2025,andhra pradesh,rangareddi,501141,1,0,0
+491,31-12-2025,andhra pradesh,rangareddi,509325,1,0,0
+492,31-12-2025,andhra pradesh,warangal,506164,4,0,0
+493,31-12-2025,andhra pradesh,warangal,506302,1,0,0
+494,31-12-2025,assam,karimganj,788156,3,3,0
+495,31-12-2025,assam,karimganj,788701,3,6,0
+496,31-12-2025,assam,karimganj,788710,1,1,0
+497,31-12-2025,assam,karimganj,788734,5,10,0
+498,31-12-2025,assam,karimganj,788735,2,4,0
+499,31-12-2025,assam,karimganj,788781,2,2,0
+500,31-12-2025,assam,sibsagar,785663,1,0,0
+501,31-12-2025,assam,sibsagar,785672,1,1,0
+502,31-12-2025,assam,sibsagar,785681,0,1,0
+503,31-12-2025,assam,sibsagar,785686,3,2,0
+504,31-12-2025,assam,south salmara mankachar,783128,1,0,0
+505,31-12-2025,bihar,aurangabad(bh),824124,0,1,0
+506,31-12-2025,bihar,bhabua,821112,0,1,0
+507,31-12-2025,bihar,east champaran,845302,8,31,1
+508,31-12-2025,bihar,east champaran,845422,11,48,1
+509,31-12-2025,bihar,east champaran,845457,4,15,1
+510,31-12-2025,bihar,east champaran,845458,2,20,0
+511,31-12-2025,bihar,monghyr,811214,0,2,0
+512,31-12-2025,bihar,samstipur,848125,0,2,0
+513,31-12-2025,bihar,west champaran,845404,13,17,1
+514,31-12-2025,bihar,west champaran,845449,9,45,0
+515,31-12-2025,chhattisgarh,baloda bazar,493101,4,3,0
+516,31-12-2025,chhattisgarh,baloda bazar,493195,1,0,0
+517,31-12-2025,chhattisgarh,baloda bazar,493338,10,5,0
+518,31-12-2025,chhattisgarh,balrampur,497220,9,5,0
+519,31-12-2025,chhattisgarh,balrampur,497223,4,2,0
+520,31-12-2025,chhattisgarh,dantewada,494441,8,2,0
+521,31-12-2025,chhattisgarh,dantewada,494552,10,4,0
+522,31-12-2025,chhattisgarh,janjgir - champa,495668,1,1,0
+523,31-12-2025,chhattisgarh,kanker,494337,2,0,0
+524,31-12-2025,chhattisgarh,kanker,494669,2,0,0
+525,31-12-2025,chhattisgarh,kanker,494771,3,0,0
+526,31-12-2025,chhattisgarh,koriya,497331,1,5,0
+527,31-12-2025,chhattisgarh,koriya,497778,4,1,0
+528,31-12-2025,chhattisgarh,manendragarh–chirmiri–bharatpur,497449,1,1,0
+529,31-12-2025,delhi,central delhi,110003,7,1,0
+530,31-12-2025,delhi,central delhi,110012,0,1,0
+531,31-12-2025,delhi,central delhi,110055,3,6,1
+532,31-12-2025,delhi,north delhi,110054,3,4,0
+533,31-12-2025,delhi,north west delhi,110052,15,1,1
+534,31-12-2025,delhi,south delhi,110003,1,0,0
+535,31-12-2025,delhi,south delhi,110016,0,2,0
+536,31-12-2025,delhi,south delhi,110025,25,14,1
+537,31-12-2025,delhi,south west delhi,110046,7,5,0
+538,31-12-2025,delhi,south west delhi,110061,0,3,0
+539,31-12-2025,delhi,west delhi,110026,2,1,0
+540,31-12-2025,delhi,west delhi,110059,56,30,5
+541,31-12-2025,gujarat,ahmadabad,382425,1,0,0
+542,31-12-2025,gujarat,ahmadabad,382440,1,1,0
+543,31-12-2025,gujarat,ahmadabad,382470,0,1,0
+544,31-12-2025,gujarat,banaskantha,385001,12,8,0
+545,31-12-2025,gujarat,banaskantha,385110,2,13,0
+546,31-12-2025,gujarat,panchmahals,389001,7,9,0
+547,31-12-2025,gujarat,panchmahals,389210,5,1,0
+548,31-12-2025,gujarat,panchmahals,389260,0,2,0
+549,31-12-2025,gujarat,panchmahals,389310,8,0,0
+550,31-12-2025,gujarat,panchmahals,389330,1,2,0
+551,31-12-2025,gujarat,panchmahals,389360,2,1,0
+552,31-12-2025,gujarat,panchmahals,389365,1,1,0
+553,31-12-2025,gujarat,sabarkantha,383110,0,1,0
+554,31-12-2025,gujarat,sabarkantha,383246,2,0,0
+555,31-12-2025,gujarat,sabarkantha,383255,2,2,0
+556,31-12-2025,gujarat,sabarkantha,383340,0,1,0
+557,31-12-2025,gujarat,sabarkantha,383462,0,1,0
+558,31-12-2025,gujarat,surendra nagar,363001,7,1,0
+559,31-12-2025,gujarat,surendra nagar,363002,2,0,0
+560,31-12-2025,gujarat,surendra nagar,363020,2,1,0
+561,31-12-2025,gujarat,surendra nagar,363035,2,0,1
+562,31-12-2025,gujarat,surendra nagar,363330,4,7,0
+563,31-12-2025,gujarat,surendra nagar,382130,0,2,0
+564,31-12-2025,gujarat,surendra nagar,382765,2,2,0
+565,31-12-2025,gujarat,the dangs,394715,2,0,0
+566,31-12-2025,haryana,gurgaon,122003,2,1,2
+567,31-12-2025,haryana,gurgaon,122006,2,0,0
+568,31-12-2025,haryana,gurgaon,122018,1,3,0
+569,31-12-2025,haryana,mewat,122108,23,4,0
+570,31-12-2025,haryana,yamuna nagar,133103,4,0,0
+571,31-12-2025,haryana,yamuna nagar,133202,1,0,0
+572,31-12-2025,haryana,yamuna nagar,133206,3,0,0
+573,31-12-2025,haryana,yamuna nagar,135001,15,1,0
+574,31-12-2025,haryana,yamuna nagar,135101,2,0,0
+575,31-12-2025,himachal pradesh,lahul & spiti,172111,0,1,0
+576,31-12-2025,jammu and kashmir,bandipore,193502,15,9,0
+577,31-12-2025,jammu and kashmir,baramula,193401,1,0,0
+578,31-12-2025,jammu and kashmir,kargil,194105,0,2,0
+579,31-12-2025,jammu and kashmir,leh,194401,0,1,0
+580,31-12-2025,jammu and kashmir,punch,185102,7,5,0
+581,31-12-2025,jharkhand,hazaribag,825405,0,1,0
+582,31-12-2025,jharkhand,palamau,822116,1,0,0
+583,31-12-2025,jharkhand,pashchimi singhbhum,833201,1,9,0
+584,31-12-2025,jharkhand,purbi singhbhum,831018,0,1,0
+585,31-12-2025,jharkhand,purbi singhbhum,832107,1,0,0
+586,31-12-2025,jharkhand,sahibganj,816108,0,1,0
+587,31-12-2025,jharkhand,seraikela-kharsawan,831013,2,4,0
+588,31-12-2025,jharkhand,seraikela-kharsawan,832401,16,7,0
+589,31-12-2025,jharkhand,seraikela-kharsawan,832403,12,3,0
+590,31-12-2025,jharkhand,seraikela-kharsawan,833219,3,1,0
+591,31-12-2025,karnataka,bagalkot,587103,5,0,0
+592,31-12-2025,karnataka,bagalkot,587121,2,2,0
+593,31-12-2025,karnataka,bagalkot,587156,1,0,0
+594,31-12-2025,karnataka,bagalkot,587312,10,3,0
+595,31-12-2025,karnataka,bagalkot,587313,5,4,0
+596,31-12-2025,karnataka,bagalkot,587330,9,3,0
+597,31-12-2025,karnataka,bagalkot *,587102,1,1,0
+598,31-12-2025,karnataka,bagalkot *,587125,1,0,0
+599,31-12-2025,karnataka,bagalkot *,587201,0,1,0
+600,31-12-2025,karnataka,bangalore,560008,1,1,0
+601,31-12-2025,karnataka,bangalore,560017,1,2,0
+602,31-12-2025,karnataka,bangalore,560030,0,1,0
+603,31-12-2025,karnataka,bangalore,560048,2,1,0
+604,31-12-2025,karnataka,bangalore,560083,1,2,0
+605,31-12-2025,karnataka,bangalore,560096,1,0,0
+606,31-12-2025,karnataka,bangalore,560104,1,0,0
+607,31-12-2025,karnataka,bangalore,560105,1,2,0
+608,31-12-2025,karnataka,bangalore rural,562111,3,1,0
+609,31-12-2025,karnataka,bangalore rural,562132,3,0,0
+610,31-12-2025,karnataka,belgaum,590001,2,0,0
+611,31-12-2025,karnataka,belgaum,590003,0,1,0
+612,31-12-2025,karnataka,belgaum,591102,2,4,0
+613,31-12-2025,karnataka,belgaum,591106,2,0,0
+614,31-12-2025,karnataka,belgaum,591114,3,0,0
+615,31-12-2025,karnataka,belgaum,591121,1,0,0
+616,31-12-2025,karnataka,belgaum,591124,1,1,0
+617,31-12-2025,karnataka,belgaum,591125,1,0,0
+618,31-12-2025,karnataka,belgaum,591129,2,1,0
+619,31-12-2025,karnataka,belgaum,591215,2,1,0
+620,31-12-2025,karnataka,belgaum,591224,0,3,0
+621,31-12-2025,karnataka,belgaum,591232,4,0,0
+622,31-12-2025,karnataka,belgaum,591236,1,1,0
+623,31-12-2025,karnataka,belgaum,591265,2,2,0
+624,31-12-2025,karnataka,belgaum,591312,4,0,0
+625,31-12-2025,karnataka,belgaum,591313,0,1,0
+626,31-12-2025,karnataka,bellary,583119,2,2,0
+627,31-12-2025,karnataka,bellary,583120,4,1,0
+628,31-12-2025,karnataka,bellary,583136,1,0,0
+629,31-12-2025,karnataka,bellary,583224,0,1,0
+630,31-12-2025,karnataka,bengaluru,560005,2,3,0
+631,31-12-2025,karnataka,bengaluru,560010,2,3,1
+632,31-12-2025,karnataka,bengaluru,560011,1,0,0
+633,31-12-2025,karnataka,bengaluru,560013,1,2,0
+634,31-12-2025,karnataka,bengaluru,560021,1,1,0
+635,31-12-2025,karnataka,bengaluru,560032,9,3,0
+636,31-12-2025,karnataka,bengaluru,560036,0,3,2
+637,31-12-2025,karnataka,bengaluru,560037,5,7,6
+638,31-12-2025,karnataka,bengaluru,560043,3,7,8
+639,31-12-2025,karnataka,bengaluru,560048,3,0,5
+640,31-12-2025,karnataka,bengaluru,560056,3,4,0
+641,31-12-2025,karnataka,bengaluru,560058,5,2,0
+642,31-12-2025,karnataka,bengaluru,560061,5,2,1
+643,31-12-2025,karnataka,bengaluru,560084,4,1,0
+644,31-12-2025,karnataka,bengaluru,560085,6,0,0
+645,31-12-2025,karnataka,bengaluru,560087,7,8,2
+646,31-12-2025,karnataka,bengaluru,560098,2,3,0
+647,31-12-2025,karnataka,bengaluru,560103,3,1,2
+648,31-12-2025,karnataka,bengaluru,560105,4,3,1
+649,31-12-2025,karnataka,bengaluru,562107,3,3,1
+650,31-12-2025,karnataka,bengaluru,562157,1,1,0
+651,31-12-2025,karnataka,bengaluru,562162,0,1,0
+652,31-12-2025,karnataka,bijapur,586111,0,1,0
+653,31-12-2025,karnataka,bijapur,586114,2,0,1
+654,31-12-2025,karnataka,bijapur,586129,1,0,0
+655,31-12-2025,karnataka,bijapur,586203,1,1,0
+656,31-12-2025,karnataka,bijapur,586204,3,1,0
+657,31-12-2025,karnataka,chamrajanagar,571123,1,0,0
+658,31-12-2025,karnataka,chamrajnagar,571441,1,0,0
+659,31-12-2025,karnataka,chickmagalur,577101,1,1,0
+660,31-12-2025,karnataka,chickmagalur,577112,1,0,0
+661,31-12-2025,karnataka,chickmagalur,577122,1,0,0
+662,31-12-2025,karnataka,chickmagalur,577145,1,0,0
+663,31-12-2025,karnataka,chickmagalur,577181,1,0,0
+664,31-12-2025,karnataka,chikkaballapur,561206,1,2,0
+665,31-12-2025,karnataka,chikkaballapur,561208,12,1,0
+666,31-12-2025,karnataka,chikkaballapur,561212,1,0,0
+667,31-12-2025,karnataka,chikkaballapur,562101,6,2,0
+668,31-12-2025,karnataka,chikkaballapur,563161,1,0,0
+669,31-12-2025,karnataka,davangere,577217,2,0,0
+670,31-12-2025,karnataka,davangere,577221,2,1,0
+671,31-12-2025,karnataka,davangere,577223,1,1,0
+672,31-12-2025,karnataka,davangere,577225,2,1,0
+673,31-12-2025,karnataka,davangere,577512,1,0,0
+674,31-12-2025,karnataka,davangere,577514,1,1,0
+675,31-12-2025,karnataka,davangere,577534,3,0,0
+676,31-12-2025,karnataka,gulbarga,585222,2,0,0
+677,31-12-2025,karnataka,gulbarga,585225,7,0,0
+678,31-12-2025,karnataka,gulbarga,585265,0,3,0
+679,31-12-2025,karnataka,gulbarga,585302,1,3,0
+680,31-12-2025,karnataka,gulbarga,585311,0,2,0
+681,31-12-2025,karnataka,gulbarga,585317,3,1,0
+682,31-12-2025,karnataka,haveri *,581111,1,0,0
+683,31-12-2025,karnataka,mysore,571102,6,1,0
+684,31-12-2025,karnataka,mysore,571119,2,0,0
+685,31-12-2025,karnataka,mysore,571120,3,1,0
+686,31-12-2025,karnataka,mysore,571121,3,0,0
+687,31-12-2025,karnataka,mysore,571311,3,1,0
+688,31-12-2025,karnataka,mysore,571602,2,0,0
+689,31-12-2025,karnataka,ramanagar,562117,8,0,0
+690,31-12-2025,karnataka,ramanagar,562126,1,0,0
+691,31-12-2025,karnataka,ramanagar,562160,8,0,0
+692,31-12-2025,karnataka,tumkur,572106,1,0,0
+693,31-12-2025,karnataka,tumkur,572125,2,0,0
+694,31-12-2025,karnataka,tumkur,572130,1,0,0
+695,31-12-2025,karnataka,tumkur,572138,2,0,0
+696,31-12-2025,karnataka,tumkur,572214,1,0,0
+697,31-12-2025,kerala,kasargod,671322,0,1,0
+698,31-12-2025,madhya pradesh,agar malwa,465441,13,8,0
+699,31-12-2025,madhya pradesh,ashok nagar,473330,18,8,0
+700,31-12-2025,madhya pradesh,ashok nagar,473440,5,2,0
+701,31-12-2025,madhya pradesh,ashok nagar,473446,24,9,0
+702,31-12-2025,madhya pradesh,east nimar,450117,4,10,0
+703,31-12-2025,madhya pradesh,east nimar,450554,1,0,0
+704,31-12-2025,madhya pradesh,east nimar,450881,9,6,0
+705,31-12-2025,madhya pradesh,harda *,461251,0,1,0
+706,31-12-2025,madhya pradesh,hoshangabad,461116,1,0,0
+707,31-12-2025,madhya pradesh,hoshangabad,461661,11,2,0
+708,31-12-2025,madhya pradesh,hoshangabad,461771,9,0,0
+709,31-12-2025,madhya pradesh,khandwa,450051,0,1,0
+710,31-12-2025,madhya pradesh,khandwa,450112,2,5,0
+711,31-12-2025,madhya pradesh,khandwa,450554,2,0,0
+712,31-12-2025,madhya pradesh,khandwa,450661,6,7,0
+713,31-12-2025,madhya pradesh,khandwa,450771,2,1,0
+714,31-12-2025,madhya pradesh,khargone,451001,26,14,0
+715,31-12-2025,madhya pradesh,khargone,451111,10,13,0
+716,31-12-2025,madhya pradesh,khargone,451224,21,12,3
+717,31-12-2025,madhya pradesh,khargone,451332,40,27,1
+718,31-12-2025,madhya pradesh,khargone,451440,1,2,0
+719,31-12-2025,madhya pradesh,narsinghpur,487118,28,8,0
+720,31-12-2025,madhya pradesh,narsinghpur,487225,3,3,0
+721,31-12-2025,madhya pradesh,narsinghpur,487334,3,1,0
+722,31-12-2025,madhya pradesh,west nimar,451111,2,1,0
+723,31-12-2025,maharashtra,ahmadnagar,413701,8,2,0
+724,31-12-2025,maharashtra,ahmadnagar,413705,4,4,0
+725,31-12-2025,maharashtra,ahmadnagar,413711,5,1,0
+726,31-12-2025,maharashtra,ahmadnagar,413712,1,0,0
+727,31-12-2025,maharashtra,ahmadnagar,413721,1,0,0
+728,31-12-2025,maharashtra,ahmadnagar,414005,1,2,0
+729,31-12-2025,maharashtra,ahmadnagar,414103,1,1,0
+730,31-12-2025,maharashtra,ahmadnagar,414505,3,0,0
+731,31-12-2025,maharashtra,ahmadnagar,414602,1,1,0
+732,31-12-2025,maharashtra,ahmadnagar,414605,1,0,0
+733,31-12-2025,maharashtra,ahmadnagar,422603,1,1,0
+734,31-12-2025,maharashtra,ahmadnagar,422622,19,5,0
+735,31-12-2025,maharashtra,ahmadnagar,423601,6,1,0
+736,31-12-2025,maharashtra,ahmed nagar,422611,0,1,0
+737,31-12-2025,maharashtra,aurangabad,423703,3,0,0
+738,31-12-2025,maharashtra,aurangabad,431001,44,30,0
+739,31-12-2025,maharashtra,aurangabad,431008,7,3,0
+740,31-12-2025,maharashtra,aurangabad,431104,1,4,0
+741,31-12-2025,maharashtra,aurangabad,431110,0,4,0
+742,31-12-2025,maharashtra,aurangabad,431111,5,2,0
+743,31-12-2025,maharashtra,aurangabad,431151,2,3,0
+744,31-12-2025,maharashtra,bid,431517,2,1,0
+745,31-12-2025,maharashtra,buldana,444303,2,0,0
+746,31-12-2025,maharashtra,gondiya,441802,1,0,0
+747,31-12-2025,maharashtra,gondiya,441807,4,0,0
+748,31-12-2025,maharashtra,mumbai city,400003,1,0,0
+749,31-12-2025,maharashtra,mumbai city,400008,1,2,0
+750,31-12-2025,maharashtra,mumbai city,400010,2,1,0
+751,31-12-2025,maharashtra,mumbai city,400012,1,1,1
+752,31-12-2025,maharashtra,mumbai city,400016,1,1,0
+753,31-12-2025,maharashtra,mumbai city,400033,0,1,0
+754,31-12-2025,maharashtra,mumbai( sub urban ),400071,0,1,0
+755,31-12-2025,maharashtra,mumbai( sub urban ),400092,0,1,0
+756,31-12-2025,maharashtra,nandurbar *,425409,2,0,0
+757,31-12-2025,maharashtra,nandurbar *,425452,1,0,0
+758,31-12-2025,maharashtra,osmanabad,413534,0,1,0
+759,31-12-2025,maharashtra,osmanabad,413602,4,1,0
+760,31-12-2025,maharashtra,raigarh,400702,1,1,0
+761,31-12-2025,maharashtra,raigarh,402106,3,0,0
+762,31-12-2025,maharashtra,raigarh,402201,2,0,0
+763,31-12-2025,maharashtra,raigarh,402203,1,1,0
+764,31-12-2025,maharashtra,raigarh,402308,1,0,0
+765,31-12-2025,maharashtra,raigarh,410201,8,2,0
+766,31-12-2025,maharashtra,raigarh,410203,6,3,0
+767,31-12-2025,maharashtra,raigarh,410204,1,3,0
+768,31-12-2025,maharashtra,raigarh,410221,3,1,0
+769,31-12-2025,maharashtra,raigarh(mh),410210,3,0,0
+770,31-12-2025,manipur,bishnupur,795126,2,2,0
+771,31-12-2025,manipur,bishnupur,795134,0,6,0
+772,31-12-2025,manipur,churachandpur,795117,0,2,0
+773,31-12-2025,manipur,churachandpur,795128,9,24,2
+774,31-12-2025,manipur,churachandpur,795133,0,1,0
+775,31-12-2025,manipur,imphal west,795008,1,2,0
+776,31-12-2025,manipur,imphal west,795132,1,3,0
+777,31-12-2025,manipur,imphal west,795134,2,2,0
+778,31-12-2025,manipur,kakching,795103,1,3,0
+779,31-12-2025,manipur,senapati,795149,0,2,0
+780,31-12-2025,manipur,thoubal,795132,1,2,0
+781,31-12-2025,manipur,thoubal,795138,2,11,0
+782,31-12-2025,manipur,thoubal,795148,0,8,0
+783,31-12-2025,manipur,thoubal,795149,0,2,0
+784,31-12-2025,meghalaya,east jaintia hills,793160,0,2,0
+785,31-12-2025,meghalaya,east khasi hills,793005,0,1,2
+786,31-12-2025,meghalaya,east khasi hills,793007,1,0,0
+787,31-12-2025,meghalaya,north garo hills,794108,0,4,0
+788,31-12-2025,meghalaya,ri bhoi,793102,0,9,0
+789,31-12-2025,meghalaya,ri bhoi,793103,0,6,0
+790,31-12-2025,meghalaya,ri bhoi,793105,0,5,1
+791,31-12-2025,meghalaya,ri bhoi,793116,0,1,1
+792,31-12-2025,meghalaya,south garo hills,794103,0,1,0
+793,31-12-2025,meghalaya,south west garo hills,794105,0,2,0
+794,31-12-2025,meghalaya,south west khasi hills,793114,0,6,0
+795,31-12-2025,meghalaya,west garo hills,794002,0,5,1
+796,31-12-2025,meghalaya,west khasi hills,793119,0,26,0
+797,31-12-2025,nagaland,chumukedima,797103,0,2,0
+798,31-12-2025,nagaland,dimapur,797103,0,2,0
+799,31-12-2025,nagaland,dimapur,797112,0,8,0
+800,31-12-2025,nagaland,phek,797108,0,1,0
+801,31-12-2025,odisha,anugul,759145,1,0,0
+802,31-12-2025,odisha,baleshwar,756030,0,1,0
+803,31-12-2025,odisha,baleshwar,756035,1,0,0
+804,31-12-2025,odisha,baleshwar,756083,0,1,0
+805,31-12-2025,odisha,baleswar,756032,3,3,0
+806,31-12-2025,odisha,baleswar,756035,8,1,0
+807,31-12-2025,odisha,baleswar,756042,1,0,0
+808,31-12-2025,odisha,baleswar,756083,1,1,0
+809,31-12-2025,odisha,baleswar,756085,1,0,0
+810,31-12-2025,odisha,baleswar,756126,2,0,0
+811,31-12-2025,odisha,jagatsinghpur,754104,2,0,0
+812,31-12-2025,odisha,jagatsinghpur,754135,1,0,0
+813,31-12-2025,odisha,jajapur,754082,0,1,0
+814,31-12-2025,odisha,jajapur,755004,1,0,0
+815,31-12-2025,odisha,jajapur,755010,0,1,0
+816,31-12-2025,odisha,jajapur,755013,0,1,0
+817,31-12-2025,odisha,jajapur,755019,2,2,0
+818,31-12-2025,odisha,jajapur,755043,0,1,0
+819,31-12-2025,odisha,kendujhar,758021,1,3,0
+820,31-12-2025,odisha,kendujhar,758028,3,1,0
+821,31-12-2025,odisha,kendujhar,758036,0,2,0
+822,31-12-2025,odisha,khorda,751006,1,1,0
+823,31-12-2025,odisha,khorda,751015,0,1,0
+824,31-12-2025,odisha,khorda,751017,2,2,0
+825,31-12-2025,odisha,khorda,751020,1,0,0
+826,31-12-2025,odisha,khorda,751021,2,0,0
+827,31-12-2025,odisha,khorda,751024,3,1,0
+828,31-12-2025,odisha,khorda,752027,1,1,0
+829,31-12-2025,odisha,khorda,752060,0,1,0
+830,31-12-2025,odisha,khorda,752064,2,0,0
+831,31-12-2025,odisha,khorda,752066,1,1,0
+832,31-12-2025,odisha,khorda,752114,1,0,0
+833,31-12-2025,odisha,nabarangapur,764085,1,0,0
+834,31-12-2025,odisha,sonapur,767018,0,1,0
+835,31-12-2025,odisha,sundergarh,769001,1,2,0
+836,31-12-2025,odisha,sundergarh,769003,1,0,0
+837,31-12-2025,odisha,sundergarh,769008,1,0,0
+838,31-12-2025,odisha,sundergarh,770011,3,0,0
+839,31-12-2025,odisha,sundergarh,770012,0,1,0
+840,31-12-2025,odisha,sundergarh,770014,0,1,0
+841,31-12-2025,odisha,sundergarh,770034,0,1,0
+842,31-12-2025,odisha,sundergarh,770037,3,1,0
+843,31-12-2025,odisha,sundergarh,770038,0,1,0
+844,31-12-2025,odisha,sundergarh,770041,3,1,0
+845,31-12-2025,odisha,sundergarh,770048,0,2,0
+846,31-12-2025,odisha,sundergarh,770070,0,1,0
+847,31-12-2025,odisha,anugul,759123,1,0,0
+848,31-12-2025,odisha,baleshwar,756002,0,1,0
+849,31-12-2025,odisha,baleshwar,756032,1,0,0
+850,31-12-2025,odisha,baleshwar,756056,0,1,0
+851,31-12-2025,odisha,jajapur,755009,2,0,0
+852,31-12-2025,odisha,kendujhar,758078,1,0,0
+853,31-12-2025,puducherry,pondicherry,605009,0,1,0
+854,31-12-2025,puducherry,pondicherry,605501,1,0,0
+855,31-12-2025,puducherry,pondicherry,605007,1,0,0
+856,31-12-2025,punjab,s.a.s nagar(mohali),140301,2,0,0
+857,31-12-2025,punjab,s.a.s nagar(mohali),140604,1,0,0
+858,31-12-2025,punjab,s.a.s nagar(mohali),160059,1,0,0
+859,31-12-2025,punjab,sas nagar (mohali),140110,3,0,0
+860,31-12-2025,punjab,shaheed bhagat singh nagar,144509,0,1,0
+861,31-12-2025,rajasthan,chittaurgarh,312901,3,0,0
+862,31-12-2025,rajasthan,chittaurgarh,323307,2,1,0
+863,31-12-2025,rajasthan,jalor,307515,0,8,0
+864,31-12-2025,rajasthan,jalor,343023,1,6,0
+865,31-12-2025,rajasthan,jalor,343024,0,5,0
+866,31-12-2025,rajasthan,jalor,343048,0,4,0
+867,31-12-2025,rajasthan,jhunjhunun,333024,0,2,0
+868,31-12-2025,rajasthan,jhunjhunun,333031,5,3,0
+869,31-12-2025,rajasthan,jhunjhunun,333033,1,3,0
+870,31-12-2025,rajasthan,jhunjhunun,333041,2,2,0
+871,31-12-2025,rajasthan,jhunjhunun,333501,1,4,0
+872,31-12-2025,rajasthan,jhunjhunun,333504,2,0,0
+873,31-12-2025,rajasthan,jhunjhunun,333702,2,0,0
+874,31-12-2025,rajasthan,jhunjhunun,333704,2,0,0
+875,31-12-2025,rajasthan,jhunjhunun,333707,1,4,0
+876,31-12-2025,sikkim,east sikkim,737101,0,1,0
+877,31-12-2025,sikkim,west,737113,1,0,0
+878,31-12-2025,sikkim,west,737121,1,2,0
+879,31-12-2025,tamil nadu,kanyakumari,629151,1,0,0
+880,31-12-2025,tamil nadu,kanyakumari,629163,1,0,0
+881,31-12-2025,tamil nadu,kanyakumari,629166,1,0,0
+882,31-12-2025,tamil nadu,kanyakumari,629175,1,0,0
+883,31-12-2025,tamil nadu,kanyakumari,629201,1,0,0
+884,31-12-2025,tamil nadu,kanyakumari,629203,1,0,0
+885,31-12-2025,tamil nadu,kanyakumari,629251,2,0,0
+886,31-12-2025,tamil nadu,kanyakumari,629302,1,0,0
+887,31-12-2025,tamil nadu,kanyakumari,629401,1,0,0
+888,31-12-2025,tamil nadu,tirupattur,635701,1,2,0
+889,31-12-2025,tamil nadu,tirupattur,635754,2,1,0
+890,31-12-2025,tamil nadu,tirupattur,635852,2,0,0
+891,31-12-2025,tamil nadu,tiruvallur,600019,8,6,0
+892,31-12-2025,tamil nadu,tiruvallur,600053,5,8,0
+893,31-12-2025,tamil nadu,tiruvallur,600055,4,1,0
+894,31-12-2025,tamil nadu,tiruvallur,600066,2,0,0
+895,31-12-2025,tamil nadu,tiruvallur,600089,4,1,0
+896,31-12-2025,tamil nadu,tiruvallur,600101,3,0,0
+897,31-12-2025,tamil nadu,tiruvallur,600110,0,2,0
+898,31-12-2025,tamil nadu,tiruvallur,601103,3,3,3
+899,31-12-2025,tamil nadu,tiruvallur,601201,10,9,0
+900,31-12-2025,tamil nadu,tiruvallur,601203,1,3,0
+901,31-12-2025,tamil nadu,tiruvallur,602003,1,1,0
+902,31-12-2025,tamil nadu,tiruvallur,602025,2,1,1
+903,31-12-2025,tamil nadu,tiruvallur,602028,1,2,0
+904,31-12-2025,tamil nadu,tiruvallur,631205,2,2,0
+905,31-12-2025,tamil nadu,tiruvallur,631207,2,0,0
+906,31-12-2025,tamil nadu,tiruvallur,631208,4,3,0
+907,31-12-2025,tamil nadu,tiruvallur,631303,2,0,0
+908,31-12-2025,tamil nadu,villupuram,604001,2,2,0
+909,31-12-2025,tamil nadu,villupuram,604154,2,0,0
+910,31-12-2025,tamil nadu,villupuram,604204,1,0,0
+911,31-12-2025,tamil nadu,villupuram,604206,1,0,0
+912,31-12-2025,tamil nadu,villupuram,604301,1,0,0
+913,31-12-2025,tamil nadu,villupuram,604307,0,1,0
+914,31-12-2025,tamil nadu,villupuram,605109,1,0,0
+915,31-12-2025,tamil nadu,villupuram,605701,0,1,0
+916,31-12-2025,tamil nadu,villupuram,605757,1,0,0
+917,31-12-2025,tamil nadu,villupuram,607202,1,0,0
+918,31-12-2025,telangana,jayashankar bhupalpally,506345,2,1,0
+919,31-12-2025,telangana,k.v. rangareddy,500018,5,2,0
+920,31-12-2025,telangana,k.v. rangareddy,500032,2,1,0
+921,31-12-2025,telangana,k.v. rangareddy,500047,1,2,0
+922,31-12-2025,telangana,k.v. rangareddy,500052,23,7,0
+923,31-12-2025,telangana,k.v. rangareddy,500058,6,0,0
+924,31-12-2025,telangana,k.v. rangareddy,500081,2,3,0
+925,31-12-2025,telangana,k.v. rangareddy,500090,1,0,0
+926,31-12-2025,telangana,k.v. rangareddy,501101,1,1,0
+927,31-12-2025,telangana,k.v. rangareddy,501142,2,2,0
+928,31-12-2025,telangana,k.v. rangareddy,501505,11,5,0
+929,31-12-2025,telangana,k.v. rangareddy,501511,0,1,0
+930,31-12-2025,telangana,k.v. rangareddy,509325,8,4,0
+931,31-12-2025,telangana,komaram bheem,504299,2,1,0
+932,31-12-2025,telangana,medchal-malkajgiri,500010,3,3,0
+933,31-12-2025,telangana,medchal-malkajgiri,500040,3,0,0
+934,31-12-2025,telangana,medchal-malkajgiri,500049,2,0,0
+935,31-12-2025,telangana,medchal-malkajgiri,500051,0,1,0
+936,31-12-2025,telangana,medchal-malkajgiri,500067,1,1,0
+937,31-12-2025,telangana,medchal-malkajgiri,500092,5,0,0
+938,31-12-2025,telangana,medchal−malkajgiri,500039,1,0,0
+939,31-12-2025,telangana,medchal−malkajgiri,500072,2,1,0
+940,31-12-2025,telangana,rangareddy,509207,0,1,0
+941,31-12-2025,telangana,warangal rural,506134,1,0,0
+942,31-12-2025,telangana,warangal rural,506332,1,0,0
+943,31-12-2025,telangana,warangal urban,506013,1,0,0
+944,31-12-2025,telangana,yadadri.,508113,3,0,0
+945,31-12-2025,telangana,yadadri.,508115,2,0,0
+946,31-12-2025,telangana,yadadri.,508116,5,2,0
+947,31-12-2025,tripura,dhalai,799285,3,2,0
+948,31-12-2025,tripura,gomati,799125,1,0,0
+949,31-12-2025,tripura,khowai,799201,2,2,0
+950,31-12-2025,tripura,khowai,799202,0,1,0
+951,31-12-2025,tripura,north tripura,799253,0,2,0
+952,31-12-2025,tripura,north tripura,799262,3,0,0
+953,31-12-2025,tripura,sepahijala,799105,0,2,0
+954,31-12-2025,tripura,sepahijala,799115,2,8,0
+955,31-12-2025,tripura,south tripura,799104,0,7,0
+956,31-12-2025,tripura,south tripura,799144,2,8,0
+957,31-12-2025,tripura,unakoti,799263,0,1,0
+958,31-12-2025,tripura,west tripura,799002,1,2,1
+959,31-12-2025,tripura,west tripura,799007,0,1,0
+960,31-12-2025,uttar pradesh,allahabad,211007,0,2,0
+961,31-12-2025,uttar pradesh,allahabad,211010,1,1,0
+962,31-12-2025,uttar pradesh,allahabad,212106,13,9,0
+963,31-12-2025,uttar pradesh,allahabad,212301,13,8,0
+964,31-12-2025,uttar pradesh,allahabad,212306,9,5,0
+965,31-12-2025,uttar pradesh,allahabad,212307,2,6,0
+966,31-12-2025,uttar pradesh,allahabad,221505,7,11,0
+967,31-12-2025,uttar pradesh,allahabad,221508,3,6,0
+968,31-12-2025,uttar pradesh,barabanki,225122,0,1,0
+969,31-12-2025,uttar pradesh,barabanki,225412,1,1,0
+970,31-12-2025,uttar pradesh,faizabad,224132,3,2,0
+971,31-12-2025,uttar pradesh,faizabad,224158,1,3,0
+972,31-12-2025,uttar pradesh,faizabad,224171,3,5,0
+973,31-12-2025,uttar pradesh,faizabad,224182,0,2,0
+974,31-12-2025,uttar pradesh,faizabad,224204,3,9,0
+975,31-12-2025,uttar pradesh,faizabad,224228,1,2,0
+976,31-12-2025,uttar pradesh,faizabad,224284,2,0,0
+977,31-12-2025,uttar pradesh,faizabad,225411,3,8,0
+978,31-12-2025,uttar pradesh,kushinagar *,274305,1,0,0
+979,31-12-2025,uttar pradesh,maharajganj,273158,1,6,0
+980,31-12-2025,uttar pradesh,maharajganj,273302,8,18,0
+981,31-12-2025,uttar pradesh,maharajganj,273306,1,3,0
+982,31-12-2025,uttar pradesh,sant ravidas nagar,221301,5,14,0
+983,31-12-2025,uttar pradesh,sant ravidas nagar,221310,3,8,0
+984,31-12-2025,uttar pradesh,sant ravidas nagar bhadohi,221303,0,3,0
+985,31-12-2025,west bengal,barddhaman,713103,0,3,0
+986,31-12-2025,west bengal,barddhaman,713104,2,2,0
+987,31-12-2025,west bengal,barddhaman,713126,1,0,0
+988,31-12-2025,west bengal,barddhaman,713140,2,3,0
+989,31-12-2025,west bengal,barddhaman,713145,2,1,0
+990,31-12-2025,west bengal,barddhaman,713165,1,0,0
+991,31-12-2025,west bengal,barddhaman,713170,0,1,0
+992,31-12-2025,west bengal,barddhaman,713204,0,1,0
+993,31-12-2025,west bengal,barddhaman,713217,0,1,0
+994,31-12-2025,west bengal,barddhaman,713321,1,2,0
+995,31-12-2025,west bengal,barddhaman,713330,0,1,0
+996,31-12-2025,west bengal,barddhaman,713333,2,1,0
+997,31-12-2025,west bengal,barddhaman,713339,1,2,0
+998,31-12-2025,west bengal,barddhaman,713363,3,2,0
+999,31-12-2025,west bengal,barddhaman,713381,0,1,0
+1000,31-12-2025,west bengal,barddhaman,713401,2,1,0
+1001,31-12-2025,west bengal,barddhaman,713421,1,2,0
+1002,31-12-2025,west bengal,barddhaman,713424,2,1,0
+1003,31-12-2025,west bengal,barddhaman,713425,1,0,0
+1004,31-12-2025,west bengal,barddhaman,741316,1,0,0
+1005,31-12-2025,west bengal,bardhaman,713101,0,2,0
+1006,31-12-2025,west bengal,bardhaman,713166,1,0,0
+1007,31-12-2025,west bengal,bardhaman,713206,0,1,0
+1008,31-12-2025,west bengal,bardhaman,713378,0,2,0
+1009,31-12-2025,west bengal,bardhaman,713381,0,1,0
+1010,31-12-2025,west bengal,bardhaman,713434,0,1,0
+1011,31-12-2025,west bengal,darjiling,734429,2,1,0
+1012,31-12-2025,west bengal,east midnapore,721454,1,0,0
+1013,31-12-2025,west bengal,east midnapore,721458,0,1,0
+1014,31-12-2025,west bengal,east midnapore,721628,1,0,0
+1015,31-12-2025,west bengal,haora,711104,1,2,0
+1016,31-12-2025,west bengal,haora,711306,1,1,0
+1017,31-12-2025,west bengal,haora,711410,1,0,0
+1018,31-12-2025,west bengal,hugli,712123,0,1,0
+1019,31-12-2025,west bengal,hugli,712125,1,0,0
+1020,31-12-2025,west bengal,koch bihar,736131,3,1,0
+1021,31-12-2025,west bengal,koch bihar,736133,1,0,0
+1022,31-12-2025,west bengal,koch bihar,736135,1,5,0
+1023,31-12-2025,west bengal,koch bihar,736146,4,3,0
+1024,31-12-2025,west bengal,koch bihar,736157,2,2,0
+1025,31-12-2025,west bengal,koch bihar,736159,1,3,0
+1026,31-12-2025,west bengal,koch bihar,736170,1,0,0
+1027,31-12-2025,west bengal,koch bihar,736176,1,0,0
+1028,31-12-2025,west bengal,maldah,732102,2,0,0
+1029,31-12-2025,west bengal,maldah,732201,3,7,0
+1030,31-12-2025,west bengal,maldah,732205,6,2,0
+1031,31-12-2025,west bengal,north dinajpur,733144,0,1,0
+1032,31-12-2025,west bengal,north dinajpur,733201,0,1,0
+1033,31-12-2025,west bengal,north dinajpur,733215,5,0,0
+1034,31-12-2025,west bengal,north twenty four parganas,743127,1,0,0
+1035,31-12-2025,west bengal,north twenty four parganas,743235,0,1,0
+1036,31-12-2025,west bengal,puruliya,723102,1,1,0
+1037,31-12-2025,west bengal,puruliya,723152,7,0,0
+1038,31-12-2025,west bengal,south twenty four parganas,700063,0,3,0
+1039,31-12-2025,west bengal,south twenty four parganas,700104,1,0,0
+1040,31-12-2025,west bengal,south twenty four parganas,700137,1,3,0
+1041,31-12-2025,west bengal,south twenty four parganas,743503,0,5,0
+1042,31-12-2025,west bengal,west midnapore,721133,0,3,0
+1043,31-12-2025,west bengal,west midnapore,721136,1,0,0
+1044,31-12-2025,west bengal,west midnapore,721145,1,0,0
+1045,31-12-2025,west bengal,west midnapore,721149,2,0,0
+1046,31-12-2025,west bengal,west midnapore,721150,2,2,0
+1047,31-12-2025,west bengal,west midnapore,721305,0,1,0
+1048,31-12-2025,west bengal,west midnapore,721504,1,0,0
+1049,31-12-2025,west bengal,west midnapore,721517,2,1,0
